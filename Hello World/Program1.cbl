@@ -6,7 +6,7 @@
        DATA DIVISION.
        WORKING-STORAGE SECTION.     
        PROCEDURE DIVISION.
-       DISPLAY "HELLO hi hy bye bye".
+       DISPLAY "hello hi hy bye bye".
        goback.
        STOP RUN.
        end program Program1.
