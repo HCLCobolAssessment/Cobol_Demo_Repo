@@ -1,6 +1,6 @@
 # Cobol_Demo_Repo
 ##Please follow the instructions given below
-Open you eclipse and create a new workspace
+Open your eclipse and create a new workspace
 ## https://github.com/LeedaMerolin/COBOL_Assessment.git
 ## LeedaMerolin/leeda@123
 Click File->Import->git->clone URI
