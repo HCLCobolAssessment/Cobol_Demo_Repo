@@ -8,7 +8,7 @@
 
        procedure division.
 
-       display "demo project"
+       display "demo project hi"
            goback.
 
        end program Program1.
